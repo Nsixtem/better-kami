@@ -1,2 +1,2 @@
 # better-kami
-pdf editor that is wip
+PDF editor implemented in NodeJS.
