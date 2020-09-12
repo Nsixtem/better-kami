@@ -1,0 +1,2 @@
+# better-kami
+kami bad
